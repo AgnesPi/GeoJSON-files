@@ -1,0 +1,16 @@
+{
+  "type": "headend",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethpage Headend",
+        "popup": "This is a test point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.761565240759936, -73.4949042163968]
+      }
+    }
+  ]
+}
