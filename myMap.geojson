@@ -1,5 +1,5 @@
 {
-  "type": "headend",
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -9,7 +9,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [40.761565240759936, -73.4949042163968]
+        "coordinates": [-73.4949042163968, 40.761565240759936]
       }
     }
   ]
