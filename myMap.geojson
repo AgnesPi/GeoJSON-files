@@ -22,6 +22,28 @@
         "type": "Point",
         "coordinates": [-96.85774990024203, 32.80777734135192]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parsippany Location",
+        "popup": "6 Eastmans Rd, Parsippany, NJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.41507, 40.85516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hicksville Data Center",
+        "popup": "111 New South Rd, Hicksville, NY 11801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.52457, 40.76556]
+      }
     }
   ]
 }
