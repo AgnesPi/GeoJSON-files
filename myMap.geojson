@@ -11,6 +11,17 @@
         "type": "Point",
         "coordinates": [-73.4949042163968, 40.761565240759936]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dallas TX Data Center",
+        "popup": "Dallas TX Data Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.85774990024203, 32.80777734135192]
+      }
     }
   ]
 }
